@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "24Z4kh0ShtyxYC2sv9q5Vczc3uK75WXM9x5hNrk4St8jCsZ5I8uLrjsTNf/d6wbSL28XAzqkWqRQdcEWSJBBLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mariana\\BorrameTutorial2Test\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mariana\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
